@@ -20,7 +20,7 @@ Arduino’s Firmata protocol.
 
 There are so many applications of Python -Arduino Interfacing-
 
-We know,Arduino(ATmega microcontroller) is not so powerful to run a Machine learning Algorithim.
+We know,Arduino(ATmega microcontroller) is not so powerful to run a Machine learning Algorithm.
   With this method we can easily take the data from arduino and can run a Machine learning model
   by using genuine Machine Learning libraries in python.
 
