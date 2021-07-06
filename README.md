@@ -26,6 +26,13 @@ We know,Arduino(ATmega microcontroller) is not so powerful to run a Machine lear
 
 
 ![Screenshot (239)](https://user-images.githubusercontent.com/81832778/124596482-f35b6c80-de7f-11eb-84f1-d05f7a994f33.png)
+
+
+
 ![20210702_165652](https://user-images.githubusercontent.com/81832778/124596783-4df4c880-de80-11eb-9054-52b186135c63.jpg)
+
+
+
+
 ![Screenshot (238)](https://user-images.githubusercontent.com/81832778/124596837-5baa4e00-de80-11eb-94e0-2884950f9b37.png)
 
